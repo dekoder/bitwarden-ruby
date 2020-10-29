@@ -10,7 +10,7 @@ GEM
     multi_json (1.12.2)
     mustermann (1.0.1)
     pbkdf2-ruby (0.2.1)
-    rack (2.0.3)
+    rack (2.1.4)
     rack-protection (2.0.0)
       rack
     rack-test (0.7.0)
